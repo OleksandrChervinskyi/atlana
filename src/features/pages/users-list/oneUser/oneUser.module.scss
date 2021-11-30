@@ -1,0 +1,16 @@
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+
+  p {
+    font-size: 22px;
+  }
+
+  a {
+    img {
+      max-width: 130px;
+    }
+  }
+}
